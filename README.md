@@ -7,4 +7,3 @@ NewProject
 
 @git
 
-
