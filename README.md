@@ -1,6 +1,6 @@
 # funtest
 Oct27,2024
-Joker stopped Oct31
+Jer stopped Oct31
 NewProject
 
-@gi
+@
