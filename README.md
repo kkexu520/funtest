@@ -14,7 +14,7 @@ hemi
 - 使用 `cd` 命令导航到指定路径：
     
     ```
-    cd Crypto\Hemi Network\Binaries\heminetwork_v0.5.0_windows_amd64\heminetwork_v0.5.0_windows_amd64
+    cd \heminetwork_v0.5.0_windows_amd64
     ```
     
     输入 `dir` 查看文件夹内文件
